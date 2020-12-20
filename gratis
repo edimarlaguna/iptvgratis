@@ -1,0 +1,775 @@
+#EXTM3U
+ 
+ 
+############################################################### ## GLOBO ######################################################### #
+ 
+#EXTINF: -1 TVG-id = "GLOBO SANTA CATARINA"-name TVG = "GLOBO SANTA CATARINA" TVG-logo = "https://3.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTI/iIUZwkk6yEsRXJJ0DQTnp0x2AhAVgVGZwCLcBGAs/s1600 /nsctv.png "group-title =" Canais Globo ", GLOBO NSC FLORIANOPOLIS (APINO)
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/24262.m3u8?
+ 
+#EXTINF: -1 TVG-id = "GLOBO SANTA CATARINA"-name TVG = "GLOBO SANTA CATARINA" TVG-logo = "https://3.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTI/iIUZwkk6yEsRXJJ0DQTnp0x2AhAVgVGZwCLcBGAs/s1600 /nsctv.png "group-title =" Canais Globo ", GLOBO NSC FLORIANOPOLIS¹ (APINO)
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/24262.m3u8?NSC_FLORIPA_HD
+ 
+#EXTINF: -1 TVG-id = "GLOBO SANTA CATARINA"-name TVG = "GLOBO SANTA CATARINA" TVG-logo = "https://3.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTI/iIUZwkk6yEsRXJJ0DQTnp0x2AhAVgVGZwCLcBGAs/s1600 /nsctv.png "group-title =" Canais Globo ", GLOBO FLORIANOPOLIS HD
+http://lb.kstream.org/aovivo/HD_GLOBO_SC/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8 
+ 
+#EXTINF: -1 TVG-id = "GLOBO SANTA CATARINA"-name TVG = "GLOBO SANTA CATARINA" TVG-logo = "https://3.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTI/iIUZwkk6yEsRXJJ0DQTnp0x2AhAVgVGZwCLcBGAs/s1600 /nsctv.png "group-title =" Canais Globo ", GLOBO NSC CRICIÚMA FHD (MC)
+http://assistirpainel.ddns.net:8880/ewjpzabm3vn/dh8r94nv27c/35967
+ 
+#EXTINF: -1 TVG-id = "GLOBO SANTA CATARINA"-name TVG = "GLOBO SANTA CATARINA" TVG-logo = "https://3.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTI/iIUZwkk6yEsRXJJ0DQTnp0x2AhAVgVGZwCLcBGAs/s1600 /nsctv.png "group-title =" Canais Globo ", GLOBO NSC FLORIANOPOLIS FHD¹ (MC)
+http://srvx.io:80/0467707740/fireurl.co/72010
+ 
+#EXTINF: -1 TVG-id = "GLOBO SANTA CATARINA"-name TVG = "GLOBO SANTA CATARINA" TVG-logo = "https://3.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTI/iIUZwkk6yEsRXJJ0DQTnp0x2AhAVgVGZwCLcBGAs/s1600 /nsctv.png "group-title =" Canais Globo ", GLOBO FLORIANOPOLIS¹ STAR BR HD
+ 
+http://list.deeplist.nl:80/live/agodi/agodi/58117.m3u8
+ 
+#EXTINF: -1 TVG-id = "GLOBO SANTA CATARINA"-name TVG = "GLOBO SANTA CATARINA" TVG-logo = "https://3.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTI/iIUZwkk6yEsRXJJ0DQTnp0x2AhAVgVGZwCLcBGAs/s1600 /nsctv.png "group-title =" Canais Globo ", GLOBO BLUMENAL HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/334.m3u8?NSC-BLUMENAL-SD
+ 
+ 
+#EXTINF: -1 tvg-id = "Globo RJ HD" tvg-name = "GLOBO RJ HD" tvg-logo = "http://meumaxpig.live/canais/globo.png" group-title = "Canais Globo" , GLOBO RJ HD
+http://cdn2.appino.tv/live/CFVU4V6/H0zapl9y/327.m3u8
+ 
+#EXTINF: -1 tvg-id = "Globo RJ HD" tvg-name = "GLOBO RJ SD" tvg-logo = "http://meumaxpig.live/canais/globo.png" group-title = "Canais Globo" , GLOBO RJ SD
+http://cdn2.appino.tv/live/NDUIYYL/WtsC1AC0/326.m3u8
+ 
+#EXTINF: -1 tvg-id = "Globo RJ HD" tvg-name = "GLOBO RJ SD" tvg-logo = "http://meumaxpig.live/canais/globo.png" group-title = "Canais Globo" , GLOBO¹ RJ SD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/326.m3u8
+ 
+#EXTINF: -1 tvg-id = "Globo SP HD" tvg-name = "GLOBO SP HD" tvg-logo = "http://meumaxpig.live/canais/globo.png" group-title = "Canais Globo" , GLOBO SP HD
+http://cdn2.appino.tv/live/CFVU4V6/H0zapl9y/317.m3u8
+ 
+#EXTINF: -1 tvg-id = "Globo SP HD" tvg-name = "GLOBO SP FHD" tvg-logo = "http://meumaxpig.live/canais/globo.png" group-title = "Canais Globo" , GLOBO SP FHD
+http://cdn2.appino.tv/live/CFVU4V6/H0zapl9y/318.m3u8
+ 
+#EXTINF: -1 tvg-id = "Globo Rbs Tv Porto Alegre" tvg-name = "GLOBO RBS PORTO ALEGRE HD" tvg-logo = "http://meumaxpig.live/canais/globo.png" group-title = "Canais Globo", GLOBO RBS PORTO ALEGRE HD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/332.m3u8
+ 
+#EXTINF: -1 tvg-id = "Globo Nordeste" tvg-name = "GLOBO NORDESTE HD" tvg-logo = "http://img.appino.tv/img/globo.png" group-title = "Canais Globo ", GLOBO NORDESTE HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/336.m3u8
+ 
+################################################ SBT ############ ###############################################################
+#EXTINF: -1 tvg-logo = "https://stcotvfoco.com.br/2013/09/fx9fzk.png" group-title = "Canais Abertos", SBT HD SC
+https://cdn.jmvstream.com/w/LVW-9355/LVW9355_7WPAQX40fS/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-id = "sbt.br" tvg-name = "SBT HD" tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1 .png "group-title =" Canais Abertos ", SBT HD SC
+https://cdn.jmvstream.com/w/LVW-9355/LVW9355_7WPAQX40fS/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-id = "sbt.br" tvg-name = "SBT HD" tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1 .png "group-title =" Canais Abertos ", SBT¹ HD 
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/136.m3u8?SBT_HD
+ 
+#EXTINF: -1 tvg-id = "sbt.br" tvg-name = "SBT HD" tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1 .png "group-title =" Canais Abertos ", SBT HD SANTA CATARINA
+https://cdn.jmvstream.com/w/LVW-9355/LVW9355_7WPAQX40fS/chunklist.m3u8
+ 
+########################################## REGISTRO ####### ########################################
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/recordtv.png" group-title = "Canais Abertos", RECORD TV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+ 
+#EXTINF: -1 tvg-id = "recordtvbrasília.br" tvg-name = "RECORD SP SD" tvg-logo = "https://listaiptv.gratis/logos/imagens/recordtv.png" group-title = "Canais Abertos ", RECORD SP SD
+http://cdn2.appino.tv/live/CFVU4V6/H0zapl9y/147.m3u8
+ 
+#EXTINF: -1 tvg-id = "recordtvbrasília.br" tvg-name = "RECORD SP SD" tvg-logo = "https://listaiptv.gratis/logos/imagens/recordtv.png" group-title = "Canais Abertos ", RECORD SP (PLAY PLUS)
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_240_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/recordtv.png" group-title = "Canais Abertos", RECORD RJ HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+ 
+#EXTINF: -1 tvg-id = "record.news.br" tvg-name = "RECORD NEWS-HD" tvg-logo = "http://meumaxpig.live/canais/recordnews.png" group-title = " Canais Abertos ", RECORD NEWS-HD 
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+ 
+######################################### REDE TV ####################### #######################################################
+ 
+#EXTINF: -1 tvg-id = "redetv.br" tvg-name = "REDE TV HD" tvg-logo = "http://img.appino.tv/img/redetv.png" group-title = "Canais Abertos ", REDE TV HD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/143.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://cdn.reweb.io/hagah/image/BxznDx6M6j3Dir8b5NzYRyZ0-PM=/300x300/top/smart/hagah/9/97/tv-pampa-rede-tv-porto -alegre-978bef6b.png "group-title =" Canais Abertos ", TV Pampa RedeTV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "REDE TV" tvg-name = "REDE TV" tvg-logo = "http://img.appino.tv/img/redetv.png" group-title = "Canais Abertos" , REDE TV - ARAPUAN
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
+ 
+ 
+ 
+############################################## REGIONAIS ############### #########################################
+#EXTINF: -1 tvg-id = "CANAL RETRO" tvg-name = "CANAL RETRO" tvg-logo = "http://i.imgur.com/QGUGlqk.png" group-title = "Canais Abertos", CANAL RETRO
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV JAPI" tvg-name = "TV JAPI" tvg-logo = "https://1.bp.blogspot.com/-prllIM4jwE8/X2-G2FwMizI/AAAAAAAADXE/75oV-qjL3jR8eH5jfjL -nkgCPcBGAYYCw / s0 / TV% 2BJAPI.png "group-title =" Canais Abertos ", CANAL JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/media_w188360453_44094.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV JAPI" tvg-name = "TV JAPI" tvg-logo = "https://1.bp.blogspot.com/-DD-W5KFY2Js/X6rpT0LDUKI/AAAAAAAADx0/0JwsVMzN2CQYse4-Ezv33 -s2owCLcBGAsYHQ / s0 / VINTAGE% 2BTV.png "group-title =" Canais Abertos ", VINTAGE TV
+https://stmv6.srvstm.com/rogerio4248/rogerio4248/media_w734514172_12533.m3u8
+ 
+#EXTINF: -1 tvg-id = "UNISUL TV" tvg-name = "UNISUL TV" tvg-logo = "http://4.bp.blogspot.com/-vhbcpg2FLxs/TxDcP4nijPI/AAAAAAAABHQ/23_4oqp0wRo/s16TV_UNIS00/UNIS00 % 255B1% 255D.jpg "group-title =" Canais Abertos ", UNISUL TV (Tubarão)
+https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
+ 
+#EXTINF: -1 tvg-id = "redebrasil.br" tvg-name = "Rede Brasil SD" tvg-logo = "https://pbs.twimg.com/profile_images/588887489160544258/CBrpM62h_400x400.jpg" group-title = "Canais Abertos", Rede Brasil SD *
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "Futura" tvg-name = "Futura HD" tvg-logo = "http://img.appino.tv/img/futura.png" group-title = "Canais Abertos", Futura HD (funcionando)
+https://5a1c76baf08c0.streamlock.net/z01-live/stream/playlist.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/arapuam.png" group-title = "Canais Abertos", TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+ 
+ 
+#EXTINF: -1 tvg-id = "REDE TV" tvg-name = "REDE TV" tvg-logo = "" group-title = "Canais Abertos", TV FILMES E SÉRIES
+https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8 
+ 
+#EXTINF: -1 tvg-id = "REDE TV" tvg-name = "REDE TV" tvg-logo = "" group-title = "Canais Abertos", TV UNIÃO
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV MAIS BRASIL" tvg-name = "REDE TV" tvg-logo = "https://4.bp.blogspot.com/-PiyFwhywwQM/XhjHNxYD4SI/AAAAAAAACWY/SNj6eLf_65sT3fBkBzTRl Screenshot_2020-01-10-15-46-42.png "group-title =" Canais Abertos ", TV MAIS BRASIL
+https://5eaa6849d0971.streamlock.net/tvmaisbrasiltv/tvmaisbrasiltv/media_w321057311_4144.m3u8
+ 
+#EXTINF: -1 tvg-id = "FLORIPA" tvg-name = "https://rede.alquimidia.org/wp-content/uploads/2020/02/MAT_181222tvfloripa.jpg" group-title = "Canais Abertos", TV FLORIPA
+http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "UNISUL TV" tvg-name = "UNISUL TV" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTDlSndxEpr_74IBL7N6fbMY-9fbUQTVu8Yow group-title = "Canais Abertos", TV GALEGA BLUMENAU
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV ESCOLA" tvg-name = "TV ESCOLA" tvg-logo = "https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/ tv-escola-2.png "group-title =" Canais Abertos ", TV ESCOLA HD
+https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FjyoJQ-MOF8)r(fVR9ug)a(yRhZ1w)p(d(2xc)k(q8A)m(ly6vpKtidR2EK9Wo9ZLkJA) n (a (thOr8w) s (DMI) 'a (ukt7BQ) s (ymg))) s (s (4Y4) b (nQlxPA2XjFWV8Mo8LNTx6cHDF-oCuWK-B4PmrxZ45HXJKMhUIvQ6SMhfa5JuJLyiFJqeW43h47SlnqAnVQ)' s (6HU) b (HKjgKkajhHFLSikuLqRAymvpOzl0hMEiEqT1-h1Na6OueyvLV-LsIlNkIsM_RO8fHlzePGXO65PfI6Hna7u1LsdwoJiFC5vYuHGB7mSk) «s (gBo) b (WvJFQ5zT)) m (0)) / tvescola_index.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "TV IMPERIAL" tvg-name = "TV IMPERIAL HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/8/8a/Logotipo_da_TV_Imperial.JPG" grupo -title = "Canais Abertos", TV IMPERIAL
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_DVR.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV IMPERIAL" tvg-name = "TV IMPERIAL HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/8/8a/Logotipo_da_TV_Imperial.JPG" grupo -title = "Canais Abertos", TV IMPERIAL²
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w489091346_DVR.m3u8
+ 
+#EXTINF: -1 TVG-id = "CANAL CARIOCA"-name TVG = "CANAL CARIOCA" TVG-logo = "https://3.bp.blogspot.com/-ijQe2BXfyts/W04ftsUOQ0I/AAAAAAAAw4k/DpoGxjUeRaU9i2XldIxMcdH5tgooAeC6gCPcBGAYYCw/s1600/CARIOCA + TV.fw.png "group-title =" Canais Abertos ", CANAL CARIOCA
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV DIGITAL" tvg-name = "MASTER TV" tvg-logo = "https://i.imgur.com/2St8Ans.jpg" group-title = "Canais Abertos", TV DIGITAL BIRIGUI
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV KIDIMAIS" tvg-name = "MASTER TV" tvg-logo = "" group-title = "Canais Abertos", TV KIDI MAIS
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8 
+ 
+#EXTINF: -1 TVG-id = "TV INFOR BAHIA"-name TVG = "MESTRE TV" TVG-logo = "https://3.bp.blogspot.com/-wLlSvdtf9Js/XP3UBaLX0bI/AAAAAAAAA_w/WTeaEjZJ0x8h95j51m3qR3bUbNQ2pwLBwCLcBGAs/w1200- h630-pk-no-nu / Screenshot_2019-06-10-00-48-32.png "group-title =" Canais Abertos ", TV INFOR BAHIA
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist.m3u
+ 
+#EXTINF: -1 tvg-id = "TV INFOR BAHIA" tvg-name = "MASTER TV" tvg-logo = "https://lh3.googleusercontent.com/BsBN2OO4p4D13q_to06yseq63oTgKVdYPnV9n9nclova5Tsv_ys1ic1CpAqF0" Título do grupo de TV AberxFQUEFU "AberxFQUEF0" CanfQUEF0F0US "AberxFQUEF0" Título do grupo "TVFQUEF0F0F0F0F0F0F0TgKVdYPnV9n9nclova5Tsv0F0".
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w550563544.m3u8
+ 
+#EXTINF: -1 tvg-id = "Rede Meio Norte" tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg" group-title = "Canais Abertos", REDE METRÓPOLE (Rede Meio Norte)
+http://177.130.81.30/hls/metropole.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV 8" tvg-logo = "https://tv8brasil.com/wp-content/uploads/2020/05/logo_tv8_site_novo_2020.png" group-title = "Canais Abertos", TV 8 (São Paulo)
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist-480p.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "TV INFOR BAHIA" tvg-name = "MASTER TV" tvg-logo = "https://listaiptvbrasil.com/logo/tvguarany.png" group-title = "Canais Abertos", TV GUARANY
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=539477474 
+ 
+#EXTINF: -1 tvg-id = "TV INFOR BAHIA" tvg-name = "MASTER TV" tvg-logo = "https://listaiptv.gratis/logos/imagens/22415682640x360b2.jpg" group-title = "Canais Abertos ", TV VILA VELHA
+https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "REDE MANCHETE" tvg-name = "REDE MANCHETE" tvg-logo = "https://imagem.natelinha.uol.com.br/grande/Manchete_cac7c09524caa3fdf6f39cf672d30dcd27b05a8b.jpeg" group-title "Canais Abertos", NOVA MANCHETE HD
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1857629747.m3u8
+ 
+#EXTINF: -1 tvg-id = "REDE MANCHETE" tvg-name = "REDE MANCHETE" tvg-logo = "https://imagem.natelinha.uol.com.br/grande/Manchete_cac7c09524caa3fdf6f39cf672d30dcd27b05a8b.jpeg" group-title "Canais Abertos", NOVA MANCHETE HD¹
+https://stmv3.samcast.com.br/ivonildo3902/ivonildo3902/media_w1080888253_8735.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/tvbaiana.png" group-title = "Canais Abertos", TV Baiana - Cultura
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/culturapara.png" group-title = "Canais Abertos", Tv Cultura Pará
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/catve.png" group-title = "Canais Abertos", Catve - Tv Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title = "Canais Abertos", Rede Metrópole
+http://177.130.81.30/hls/metropole.m3u8
+ 
+#EXTINF: -1 tvg-id = "REDE TV" tvg-name = "REDE TV" tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/f7559f70f34efd4e6c3a5cdef912a1f0.png" group- title = "Canais Abertos", TV PONTA DA SERRA
+https://stmv6.srvstm.com/tvpontadaserra/tvpontadaserra/playlist-480.m3u8  
+ 
+#EXTINF: -1 tvg-id = "REDE TV" tvg-name = "REDE TV" tvg-logo = "https://pbs.twimg.com/profile_images/1278638794393165825/Y6Um7Vny_400x400.png" group-title = "Canais Abertos ", TV LONDRINA
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV 8" tvg-logo = "https://tv8brasil.com/wp-content/uploads/2020/05/logo_tv8_site_novo_2020.png" group-title = "Canais Abertos", TV 8
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist-480p.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV Gazeta" tvg-logo = "" group-title = "Canais Abertos", REDE PREMIUM TV
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcelista3778778778778778408647408408778458408778408508778778778458108778778778328328108108-f8-rbR379h247408778778AeUyRbR3wc4408778778778108eUyRbR379h24763AeUyRbR379h24763AeUyRbR3f849024%3AeUyRbR3w24h24 = 0bda16bf2862dc70c716232f837fda7eab9f2618f7f6015d45bc7779808c0273
+ 
+ 
+################################### MUSICAL ############## #######################################
+ 
+#EXTINF: -1 tvg-id = "BIS" tvg-name = "BIS FHD" tvg-logo = "http://img.appino.tv/img/bishd.png" group-title = "Variedades | Músicas , BIS HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/494.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title = "Música", KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/hit_music_channel1.png" group-title = "Música", H! T Music
+http://hitmusic.hu/hitmusic.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/1-music-channel-logo-fb300dcf9a-seeklogo.com_.png" group-title = "Música", 1 canal de música
+http://1music.hu/1music.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/mc_red.png" group-title = "Música", Canal de música
+https://edge126.rcs-rds.ro/digi24edge/smil:musicchannel.smil/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-id = "CANAL RETRO" tvg-name = "CANAL RETRO" tvg-logo = "https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title = "Música", CANAL RETRO 2
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "CANAL RETRO" tvg-name = "CANAL RETRO" tvg-logo = "https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title = "Música", CANAL RETRO PLUS
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title = "Música", Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title = "Música", Capital TV
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title = "Música", M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/oadvlb8.png" group-title = "Música", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/njhits.png" group-title = "Música", NRJ Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/toptv.png" group-title = "Música", TopTV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+ 
+############## INFANTIL #################
+#EXTINF: -1 tvg-id = "Boomerang" tvg-name = "BOOMERANG HD" tvg-logo = "https://www.pciconcursos.com.br/i/ac574c2e7b5c27576b1667d65b62672a.jpg" group-title = "Infantil" , PLAY KIDS HD (funcioanando)
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_240_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF: -1 tvg-id = "Boomerang" tvg-name = "BOOMERANG HD" tvg-logo = "http://img.appino.tv/img/boomerang.png" group-title = "Infantil", BOOMERANG HD (funcioanando)
+http://cdn2.appino.tv/live/EDA4VS5/YbC1y4B3/489.m3u8
+ 
+#EXTINF: -1 tvg-id = "Boomerang" tvg-name = "BOOMERANG HD" tvg-logo = "http://img.appino.tv/img/boomerang.png" group-title = "Infantil", BOOMERANG¹ HD (funcioanando)
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/489.m3u8?BOOMERANG_HD
+ 
+#EXTINF: -1 tvg-id = "Cartoon Network" tvg-name = "CARTOON NETWORK HD" tvg-logo = "http://img.appino.tv/img/cartoonnetwork.png" group-title = "Infantil" , CARTOON NETWORK HD (FUNCIONANDO)
+http://cdn2.appino.tv/live/EDA4VS5/YbC1y4B3/478.m3u8
+ 
+#EXTINF: -1 tvg-id = "Cartoon Network" tvg-name = "CARTOON NETWORK HD" tvg-logo = "http://img.appino.tv/img/cartoonnetwork.png" group-title = "Infantil" , CARTOON NETWORK HD (FUNCIONANDO)
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/476.m3u8?CARTOON_HD
+ 
+#EXTINF: -1 tvg-id = "Disney Channel" tvg-name = "DISNEY CHANNEL HD" tvg-logo = "http://img.appino.tv/img/disney.png" group-title = "Infantil" , DISNEY CHANNEL HD * (funcionando)
+http://akamaizedx.com:80/a451027x/5745831/17061
+ 
+ 
+#EXTINF: -1 tvg-id = "Disney JR" tvg-name = "DISNEY JUNIOR HD" tvg-logo = "http://img.appino.tv/img/disneyjunior.png" group-title = "Infantil" , DISNEY JUNIOR HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/421.m3u8?DISNEYJR
+ 
+#EXTINF: -1 tvg-id = "Disney Channel" tvg-name = "DISNEY CHANNEL FHD" tvg-logo = "http://img.appino.tv/img/disney.png" group-title = "Infantil" DISNEY CHANNEL HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/426.m3u8?disneychamel
+ 
+#EXTINF: -1 tvg-id = "Disney JR" tvg-name = "DISNEY JUNIOR FHD" tvg-logo = "http://img.appino.tv/img/disneyjunior.png" group-title = "Infantil" , DISNEY JUNIOR FHD (funcionando)
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-b.m3u8
+ 
+#EXTINF: -1 tvg-id = "Disney JR" tvg-name = "DISNEY JUNIOR FHD" tvg-logo = "http://img.appino.tv/img/disneyjunior.png" group-title = "Infantil" , DISNEY JUNIOR² FHD (funcionando)
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF: -1 tvg-id = "Disney Channel" tvg-name = "DISNEY CHANNEL FHD" tvg-logo = "http://img.appino.tv/img/disney.png" group-title = "Infantil" , DISNEY JUNIOR³ FHD (funcionando)
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8
+ 
+#EXTINF: -1 tvg-id = "Disney XD" tvg-name = "DISNEY XD HD" tvg-logo = "http://img.appino.tv/img/disneyxd.png" group-title = "Infantil" , DISNEY XD HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/420.m3u8?DISNEYXD
+ 
+#EXTINF: -1 tvg-id = "Disney XD" tvg-name = "DISNEY XD HD" tvg-logo = "http://img.appino.tv/img/disneyxd.png" group-title = "Infantil" , DISNEY XD HD (funcionando)
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8
+ 
+#EXTINF: -1 tvg-id = "Nickelodeon" tvg-name = "NICK HD" tvg-logo = "http://img.appino.tv/img/nickhd.png" group-title = "Infantil", NICK HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/226.m3u8?NICK_HD
+ 
+ 
+#EXTINF: -1 tvg-id = "TV Gloobinho FHD H.265" tvg-name = "GLOOBINHO HD" tvg-logo = "http://img.appino.tv/img/gloobinho.png" group-title = "Infantil", GLOOBINHO HD
+http://cdn1.appino.tv/live/CFVU4V6/H0zapl9y/304.m3u8
+ 
+#EXTINF: -1 tvg-id = "Gloob" tvg-name = "GLOOB HD" tvg-logo = "http://img.appino.tv/img/gloob.png" group-title = "Infantil", GLOOB HD (funcionando)
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/303.m3u8?GLOOBINHO_HD
+ 
+#EXTINF: -1 tvg-id = "Nickelodeon" tvg-name = "NICK HD" tvg-logo = "http://img.appino.tv/img/nickhd.png" group-title = "Infantil", NICK HD (funcionando)
+http://cdn2.appino.tv/live/EDA4VS5/YbC1y4B3/226.m3u8
+ 
+#EXTINF: -1 tvg-id = "Tooncast" tvg-name = "TOONCAST HD" tvg-logo = "http://img.appino.tv/img/tooncast.png" group-title = "Infantil", TOONCAST HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/67.m3u8?TOONCAST_HD
+ 
+#EXTINF: -1 tvg-id = "REDE MANCHETE" tvg-name = "REDE MANCHETE" tvg-logo = "https://imagem.natelinha.uol.com.br/grande/Manchete_cac7c09524caa3fdf6f39cf672d30dcd27b05a8b.jpeg" group-title "Infantil", NOVA MANCHETE HD
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1857629747.m3u8
+ 
+#EXTINF: -1 tvg-id = "Disney Channel" tvg-name = "DISNEY CHANNEL FHD" tvg-logo = "https://4.bp.blogspot.com/-k4V7yn7Ybqk/XtmJfwWe0LI/AAAAAAAAC6I/SvjVjU-WBG5GwD0GHqVjU12QWBG0GHQGH0QCL0GHQC0CL0GHQC0CL0GHq0CLOqC0GHQGHQC0CL0GHQGHQGHQCL0GHQGTCLOAAAAAAAC6IgHQGHQGTCL0GHQGTCL0CLOTCLOAAAAAAAAC6IGHQGHQGtCLOtCL0GHGTCL/AAAAAAAAC4 w1200-h630-pk-no-nu / 2020-06-04% 2B20.42.23.png "group-title =" Infantil ", TV ARACATI (funcionando)
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title = "Infantil", Gospel Kids (Evangelico)
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w511439107.m3u8?Bycraftgames
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title = "Infantil", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title = "Infantil", Retrô Cartoon²
+https://stmv6.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+ 
+    ################################ Variedades ################################ ########
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title = "Variedades", TV MON HD
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title = "Variedades", CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/loadvermelho.png" group-title = "Variedades", Carregando HD
+https://origin-02.nxplay.com.br/IDEAL_TV_HD/tracks-v1a1/mono.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg" group-title = "Variedades", Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "E!" tvg-name = "E! HD" tvg-logo = "http://img.appino.tv/img/e!.png" group-title = "Variedades", E! HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/417.m3u8
+ 
+#EXTINF: -1 tvg-id = "Food Network" tvg-name = "FOOD NETWORK HD" tvg-logo = "http://img.appino.tv/img/foodnetworkhd.png" group-title = "Variedades" , FOOD NETWORK HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/393.m3u8
+ 
+#EXTINF: -1 tvg-id = "Multishow" tvg-name = "MULTISHOW HD" tvg-logo = "http://img.appino.tv/img/multishow.png" group-title = "Variedades", MULTISHOW HD 
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/244.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "Multishow" tvg-name = "MULTISHOW HD" tvg-logo = "http://img.appino.tv/img/multishow.png" group-title = "Variedades", MULTISHOW¹ HD (Alternativo)
+http://cdn2.appino.tv/live/NDUIYYL/WtsC1AC0/244.m3u8
+ 
+#EXTINF: -1 tvg-id = "Multishow" tvg-name = "MULTISHOW FHD" tvg-logo = "http://img.appino.tv/img/multishow.png" group-title = "Variedades", MULTISHOW FHD
+http://cdn2.appino.tv/live/NDUIYYL/WtsC1AC0/245.m3u8
+ 
+#EXTINF: -1 tvg-id = "Viva" tvg-name = "VIVA HD" tvg-logo = "http://img.appino.tv/img/viva.png" group-title = "Variedades", VIVA HD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/38.m3u8
+ 
+#EXTINF: -1 tvg-id = "Viva" tvg-name = "VIVA FHD" tvg-logo = "http://img.appino.tv/img/viva.png" group-title = "Variedades", VIVA FHD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/39.m3u8
+ 
+#EXTINF: -1 tvg-id = "GNT" tvg-name = "GNT HD" tvg-logo = "http://img.appino.tv/img/gnt.png" group-title = "Variedades", GNT HD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/302.m3u8
+ 
+#EXTINF: -1 tvg-id = "TLC" tvg-name = "TLC HD" tvg-logo = "http://img.appino.tv/img/tlc.png" group-title = "Variedades", TLC HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/78.m3u8
+ 
+ 
+ 
+########################################### NOTICIAS ################# ############### ########################################
+#EXTINF: -1 tvg-id = "GloboNews" tvg-name = "GLOBO NEWS HD" tvg-logo = "https://www.pngfind.com/pngs/m/75-752264_globonews-logo-logodownload-org- download-de-logotipos-globonews.png "group-title =" Noticias ", GLOBO NEWS HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/338.m3u8?
+ 
+#EXTINF: -1 tvg-id = "GloboNews" tvg-name = "GLOBO NEWS SD" tvg-logo = "https://www.pngfind.com/pngs/m/75-752264_globonews-logo-logodownload-org- download-de-logotipos-globonews.png "group-title =" Noticias ", GLOBO NEWS SD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/337.m3u8?
+ 
+#EXTINF: -1 tvg-id = "REDE TV" tvg-name = "REDE TV" tvg-logo = "http://img.appino.tv/img/cnnBrasil.png" group-title = "Noticias", CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+ 
+#EXTINF: -1 tvg-id = "Gravar notícias" tvg-logo = "http://i.imgur.com/ac5p192.png" group-title = "Noticias", GRAVAR NOTÍCIAS
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title = "Noticias", TVídeo NEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+ 
+ 
+ ################################# Religioso ########################### ############
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title = "Religioso", TV APARECIDA HD
+https://caikron.com.br:8082/padroeira/padroeira/playlist.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "rede.vida.br" tvg-name = "REDE VIDA" tvg-logo = "http://meumaxpig.live/canais/redevida.png" group-title = "Religioso" , REDE VIDA (funcionando)
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+ 
+#EXTINF: -1 tvg-id = "rede.vida.br" tvg-name = "REDE VIDA" tvg-logo = "http://meumaxpig.live/canais/redevida.png" group-title = "Religioso" , REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "TV Canção Nova" tvg-name = "CANCAO NOVA HD" tvg-logo = "http://img.appino.tv/img/cancaonova.png" group-title = "Religioso ", CANCAO NOVA HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV Canção Nova" tvg-name = "CANCAO NOVA HD" tvg-logo = "http://img.appino.tv/img/cancaonova.png" group-title = "Religioso ", CANCAO NOVA¹ HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "TV Canção Nova" tvg-name = "CANCAO NOVA SD" tvg-logo = "http://img.appino.tv/img/cancaonova.png" group-title = "Religioso ", CANCAO NOVA² HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV SECULO 21" tvg-name = "TV SECULO 21" tvg-logo = "https://www.rs21.com.br/wp-content/uploads/2016/07/ logo-rs21-azul.jpg "group-title =" Religioso ", TV SECULO 21
+https://dhxt2zok2aqcr.cloudfront.net/live/rs21_240p414k/index.m3u8
+ 
+ 
+#EXTINF: -1 tvg-logo = "https://www.rs21.com.br/wp-content/uploads/2016/07/logo-rs21-azul.jpg" group-title = "Religioso", Rede Seculo 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title = "Religioso", TV Evangelizar
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TV SECULO 21" tvg-name = "TV SECULO 21" tvg-logo = "https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title = "Religioso ", TV EVANGELIZAR¹
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "rede.vida.br" tvg-name = "EVANGELIZAR" tvg-logo = "https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title = "Religioso ", TV EVANGELIZAR² 
+http://tvpremiumhd.club/lista-gratuita/180026/on/live.php?id=flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+ 
+ 
+#EXTINF: -1 tvg-logo = "tvg-logo =" https://listaiptv.gratis/logos/imagens/tv_evangelizar.png "group-title =" Religioso ", TV EVANGELIZAR³
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+ 
+ 
+#EXTINF: -1 tvg-logo = "http://meumaxpig.live/canais/pai.png" group-title = "Religioso", TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TV Pai eterno" tvg-logo = "http://meumaxpig.live/canais/pai.png" group-title = "Religioso", TV Pai eterno¹
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TV Pai eterno" tvg-logo = "http://meumaxpig.live/canais/pai.png" group-title = "Religioso", TV Pai eterno²
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+ 
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title = "Religioso", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "rede.vida.br" tvg-name = "REDE VIDA" tvg-logo = "https://4.bp.blogspot.com/-cKH-ynWjJR0/XRvomcjGi8I/AAAAAAAABR0/ SebKj-HtO18DkqsOM1odOsBD0dULO5h9ACLcBGAs / w1200-h630-pk-no-nu / Screenshot_2019-07-02-20-26-39.png "group-title =" Religioso ", REDE FAMÍLIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8
+ 
+ 
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg" group-title = "Variedades", Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "Multishow" tvg-name = "MULTISHOW HD" tvg-logo = "http://img.appino.tv/img/multishow.png" group-title = "Variedades", MULTISHOW HD 
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/244.m3u8
+ 
+#EXTINF: -1 tvg-id = "Multishow" tvg-name = "MULTISHOW HD" tvg-logo = "http://img.appino.tv/img/multishow.png" group-title = "Variedades", MULTISHOW HD (Alternativo)
+http://cdn2.appino.tv/live/NDUIYYL/WtsC1AC0/244.m3u8
+ 
+#EXTINF: -1 tvg-id = "Viva" tvg-name = "VIVA HD" tvg-logo = "http://img.appino.tv/img/viva.png" group-title = "Variedades", VIVA HD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/38.m3u8
+ 
+ 
+    ############################################## DOCUMENTARIO ############# ###############################
+ 
+#EXTINF: -1 tvg-id = "Animal Planet" tvg-name = "ANIMAL PLANET SD" tvg-logo = "http://img.appino.tv/img/animalplanethd.png" group-title = "Documentários" , ANIMAL PLANET SD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/517.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "Animal Planet" tvg-name = "ANIMAL PLANET SD" tvg-logo = "http://img.appino.tv/img/animalplanethd.png" group-title = "Documentários" , ANIMAL PLANET HD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/517.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "Discovery Channel" tvg-name = "DISCOVERY CHANNEL HD" tvg-logo = "http://img.appino.tv/img/discovery.png" group-title = "Documentários" DISCOVERY CHANNEL HD
+http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/452.m3u8
+ 
+#EXTINF: -1 tvg-id = "H2 HD" tvg-name = "H2 HD" tvg-logo = "http://img.appino.tv/img/h2.png" group-title = "Documentários", H2 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/298.m3u8
+ 
+#EXTINF: -1 tvg-id = "ID" tvg-name = "ID DISCOVERY SD" tvg-logo = "http://img.appino.tv/img/idinvestigacaodiscovery.png" group-title = "Documentários", ID DISCOVERY SD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/271.m3u8
+ 
+#EXTINF: -1 tvg-id = "Discovery Turbo" tvg-name = "DISCOVERY TURBO SD" tvg-logo = "http://img.appino.tv/img/discoveryturbo.png" group-title = "Documentários" , DISCOVERY TURBO SD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/431.m3u8
+ 
+#EXTINF: -1 tvg-id = "O Canal de História" tvg-name = "HISTÓRIA HD" tvg-logo = "http://img.appino.tv/img/historyhd.png" group-title = "Documentários" , HISTÓRIA HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/298.m3u8?HISTORY_HD
+ 
+#EXTINF: -1 tvg-id = "O Canal de História" tvg-name = "HISTÓRIA HD" tvg-logo = "http://img.appino.tv/img/historyhd.png" group-title = "Documentários" , HISTÓRIA HD¹
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/277.m3u8?HISTORY_HD
+ 
+#EXTINF: -1 tvg-id = "National Geographic" tvg-name = "NATGEO HD" tvg-logo = "http://img.appino.tv/img/natgeohd.png" group-title = "Documentários", NATGEO HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/239.m3u8
+ 
+ 
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title = "Documentários", TVídeo NEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+ 
+ 
+################################ Filmes ##################################################################################### ############################
+ 
+#EXTINF: -1 tvg-id = "AXN HD" tvg-name = "AXN HD" tvg-logo = "http://img.appino.tv/img/axn1.png" group-title = "Filmes / Séries ", AXN HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/512.m3u8
+ 
+#EXTINF: -1 tvg-id = "FX HD" tvg-name = "FX HD" tvg-logo = "http://img.appino.tv/img/fx.png" group-title = "Filmes / Séries ", FX HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/369.m3u8
+ 
+#EXTINF: -1 tvg-id = "FOX HD" tvg-name = "FOX HD" tvg-logo = "http://img.appino.tv/img/fox.png" group-title = "Filmes / Séries ", FOX¹ HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/389.m3u8?FOX_CHANEL_HD
+ 
+#EXTINF: -1 tvg-id = "FOX HD" tvg-name = "FOX HD" tvg-logo = "http://img.appino.tv/img/fox.png" group-title = "Filmes / Séries ", FOX² HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/380.m3u8?FOX_CHANEL_HD
+ 
+ 
+#EXTINF: -1 tvg-id = "Fox Life HD" tvg-name = "FOX LIFE HD" tvg-logo = "http://img.appino.tv/img/foxlife.png" group-title = "Filmes / Séries ", FOX¹ LIFE HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/386.m3u8?FOX_LIFE_HD
+ 
+ 
+#EXTINF: -1 tvg-id = "foxpremium1.br" tvg-name = "FOX PREMIUM 1 HD" tvg-logo = "http://img.appino.tv/img/foxp1.png" group-title = " Filmes / Séries ", FOX PREMIUM 1 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/383.m3u8?FOX_PREMIUN1
+ 
+#EXTINF: -1 tvg-id = "foxpremium1.br" tvg-name = "FOX PREMIUM 1 HD" tvg-logo = "http://img.appino.tv/img/foxp1.png" group-title = " Filmes / Séries ", FOX PREMIUM 1 SD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/24259.m3u8?FOX_PREMIUN1_SD
+ 
+#EXTINF: -1 tvg-id = "foxpremium2.br" tvg-name = "FOX PREMIUM 2 HD" tvg-logo = "http://img.appino.tv/img/foxp2.png" group-title = " Filmes / Séries ", FOX PREMIUM 2 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/381.m3u8?
+ 
+#EXTINF: -1 tvg-id = "TNT" tvg-name = "TNT HD" tvg-logo = "http://img.appino.tv/img/tnt.png" group-title = "Filmes / Séries" , TNT HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/74.m3u8?TNT_HD
+ 
+#EXTINF: -1 tvg-id = "TNT SÉRIES HD" tvg-name = "TNT SERIES HD" tvg-logo = "http://img.appino.tv/img/tntseries.png" group-title = "Filmes / Séries ", TNT SERIES HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/70.m3u8?TNT_SERIES_HD
+ 
+#EXTINF: -1 tvg-id = "Studio Universal" tvg-name = "STUDIO UNIVERSAL HD" tvg-logo = "http://img.appino.tv/img/studiouniversal.png" group-title = "Filmes / Séries ", STUDIO UNIVERSAL HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/42.m3u8?TV_UNIVERSAL_HD
+ 
+#EXTINF: -1 tvg-id = "A&E HD" tvg-name = "A&E HD" tvg-logo = "http://img.appino.tv/img/aande.png" group-title = "Filmes / Séries ", A e E HD¹
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/526.m3u8?A&E_SD
+ 
+#EXTINF: -1 tvg-id = "TCM" tvg-name = "TCM HD" tvg-logo = "http://img.appino.tv/img/tcm.png" group-title = "Filmes / Séries" , TCM HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/106.m3u8?TCM_HD
+ 
+#EXTINF: -1 tvg-id = "Espaço" tvg-name = "SPACE HD" tvg-logo = "http://img.appino.tv/img/space.png" group-title = "Filmes / Séries" , SPACE HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/129.m3u8?SPACE_HD
+ 
+#EXTINF: -1 tvg-id = "Paramount Network" tvg-name = "PARAMOUNT HD" tvg-logo = "http://img.appino.tv/img/paramount.png" group-title = "Filmes / Séries ", PARAMOUNT HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/210.m3u8?
+ 
+#EXTINF: -1 tvg-id = "Sony" tvg-name = "SONY HD" tvg-logo = "http://img.appino.tv/img/canalsony.png" group-title = "Filmes / Séries" , SONY HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/482.m3u8?
+ 
+#EXTINF: -1 tvg-id = "Megapix" tvg-name = "MEGAPIX HD" tvg-logo = "http://img.appino.tv/img/megapix.png" group-title = "Filmes / Séries" , MEGAPIX HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/251.m3u8?MEGAPIX_HD
+ 
+#EXTINF: -1 tvg-id = "hbo.br" tvg-name = "HBO SD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo .svg / 105px-HBO-Logo.svg.png "group-title =" Filmes / Séries ", HBO HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/287.m3u8?
+ 
+#EXTINF: -1 tvg-id = "hbo2.br" tvg-name = "HBO 2 SD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title = "Filmes / Séries", HBO 2 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/294.m3u8?HBO2_HD
+ 
+#EXTINF: -1 tvg-id = "aande.br" tvg-name = "HBO XTREME SD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme. svg / 1200px-HBO_Xtreme.svg.png "group-title =" Filmes / Séries ", HBO XTREME HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/259.m3u8?HBOEXTREME_HD
+ 
+#EXTINF: -1 tvg-id = "hbofamily.br" tvg-name = "HBO FAMILY SD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title = "Filmes / Séries", HBO FAMILY HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/290.m3u8?
+ 
+#EXTINF: -1 tvg-id = "aande.br" tvg-name = "HBO MUNDI SD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi. svg / 1200px-HBO_Mundi.svg.png "group-title =" Filmes / Séries ", HBO MUNDI HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/262.m3u8?
+ 
+#EXTINF: -1 tvg-id = "hboplusbrasil.br" tvg-name = "HBO + SD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title = "Filmes / Séries", HBO PLUS HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/285.m3u8?
+ 
+#EXTINF: -1 tvg-id = "aande.br" tvg-name = "HBO POP SD²" tvg-logo = "https://associacaoneo.com.br/wp-content/uploads/2020/06/0000_all_l_hboall- HBO-POP-Black-460x260_c.png "group-title =" Filmes / Séries ", HBO POP HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/255.m3u8?
+ 
+ 
+#EXTINF: -1 tvg-id = "Telecine Action" tvg-name = "TELECINE ACTION HD" tvg-logo = "http://img.appino.tv/img/TCAction.png" group-title = "Filmes / Séries ", TELECINE ACTION HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/102.m3u8
+ 
+#EXTINF: -1 tvg-id = "Telecine Fun" tvg-name = "TELECINE FUN HD" tvg-logo = "http://img.appino.tv/img/TCFun.png" group-title = "Filmes / Séries ", TELECINE FUN HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/93.m3u8
+ 
+#EXTINF: -1 tvg-id = "Telecine Fun" tvg-name = "TELECINE FUN SD" tvg-logo = "http://img.appino.tv/img/TCFun.png" group-title = "Filmes / Séries ", TELECINE FUN SD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/92.m3u8
+ 
+#EXTINF: -1 tvg-id = "Telecine Pipoca" tvg-name = "TELECINE PIPOCA HD" tvg-logo = "http://img.appino.tv/img/tcPipoca.png" group-title = "Filmes / Séries ", TELECINE PIPOCA HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/89.m3u8
+ 
+#EXTINF: -1 tvg-id = "Telecine Premium" tvg-name = "TELECINE PREMIUM HD" tvg-logo = "http://img.appino.tv/img/TCPremium.png" group-title = "Filmes / Séries ", TELECINE PREMIUM HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/85.m3u8
+ 
+#EXTINF: -1 tvg-id = "Telecine Touch" tvg-name = "TELECINE TOUCH HD" tvg-logo = "http://img.appino.tv/img/TCTouch.png" group-title = "Filmes / Séries ", TELECINE TOUCH HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/81.m3u8
+ 
+#EXTINF: -1 tvg-id = "Telecine Touch" tvg-name = "TELECINE TOUCH SD" tvg-logo = "http://img.appino.tv/img/TCTouch.png" group-title = "Filmes / Séries ", TELECINE TOUCH SD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/80.m3u8
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CINE SKY 01 HD" tvg-logo = "http://img.appino.tv/img/cineSky.png" group-title = "Filmes / Séries ", CINE SKY 01 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/29897.m3u8?CINE_SKY1
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CINE SKY 01 HD" tvg-logo = "http://img.appino.tv/img/cineSky.png" group-title = "Filmes / Séries ", CINE SKY 02 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/29898.m3u8?CINE_SKY2
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CINE SKY 01 HD" tvg-logo = "http://img.appino.tv/img/cineSky.png" group-title = "Filmes / Séries ", CINE SKY 03 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/29899.m3u8?CINE_SKY3
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CINE SKY 01 HD" tvg-logo = "http://img.appino.tv/img/cineSky.png" group-title = "Filmes / Séries ", CINE SKY 04 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/29900.m3u8?CINE_SKY3
+ 
+ 
+#EXTINF: -1 tvg-id = "Cinemax HD" tvg-name = "CINEMAX FHD" tvg-logo = "http://img.appino.tv/img/cinemax.png" group-title = "Filmes / Séries ", CINEMAX FHD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/466.m3u8?CINEMAX_HD
+ 
+#EXTINF: -1 tvg-id = "Warner" tvg-name = "WARNER CHANNEL HD" tvg-logo = "http://img.appino.tv/img/warner.png" group-title = "Filmes / Séries ", WARNER CHANNEL HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/34.m3u8
+ 
+#EXTINF: -1 tvg-id = "I Sat" tvg-logo = "https://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title = "Filmes / Séries", TV NA ILHA (Filmes Lançamento)
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w220396187.m3u8
+ 
+#EXTINF: -1 tvg-id = "Classique TV" tvg-logo = "https://i.imgur.com/Mcc2grC.jpg" group-title = "Filmes / Séries", CLASSIQUE TV (Filmes Antigos)
+https://stmv6.srvstm.com/classique/classique/chunklist_w1892970465.m3u8
+ 
+#EXTINF: -1 tvg-id = "Fox Premium 2" tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/efcb8e80e7fb0b65bdcd3bcba64595e5.jpg" group-title = "Filmes / Sériese" , CANAL ITV (Filmes e Series)
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1051564014.m3u8
+ 
+ 
+ 
+############ ESPORTES ################### ESPORTES ####### ESPORTES ############# ESPORTES ####### #####################################
+#EXTINF: -1 tvg-id = "Band Sports" tvg-name = "BAND SPORTS HD" tvg-logo = "http://img.appino.tv/img/bandsports.png" group-title = "Esportes" , BAND SPORTS HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/497.m3u8
+ 
+#EXTINF: -1 tvg-id = "Combate" tvg-name = "COMBATE HD" tvg-logo = "http://img.appino.tv/img/combate.png" group-title = "Esportes", COMBATE HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/460.m3u8
+ 
+#EXTINF: -1 tvg-id = "Combate" tvg-name = "COMBATE SD" tvg-logo = "http://img.appino.tv/img/combate.png" group-title = "Esportes", COMBATE SD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/459.m3u8
+ 
+#EXTINF: -1 tvg-id = "ESPN Brasil" tvg-name = "ESPN BRASIL FHD" tvg-logo = "http://img.appino.tv/img/espnbrasil.png" group-title = "Esportes" , ESPN BRASIL FHD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/408.m3u8
+ 
+#EXTINF: -1 tvg-id = "ESPN Brasil" tvg-name = "ESPN BRASIL SD" tvg-logo = "http://img.appino.tv/img/espnbrasil.png" group-title = "Esportes" , ESPN BRASIL SD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/407.m3u8
+ 
+#EXTINF: -1 tvg-id = "ESPN 2 HD" tvg-name = "ESPN 2 HD" tvg-logo = "http://img.appino.tv/img/espn2.png" group-title = "Esportes ", ESPN 2 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/410.m3u8
+ 
+#EXTINF: -1 tvg-id = "FISH TV" tvg-name = "FISH TV HD" tvg-logo = "http://img.appino.tv/img/fishtv.png" group-title = "Esportes" , FISH TV HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/29896.m3u8
+ 
+#EXTINF: -1 tvg-id = "FOX Sports 2" tvg-name = "FOX SPORTS 2 HD" tvg-logo = "http://img.appino.tv/img/foxsports2.png" group-title = " Esportes ", FOX SPORTS 2 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/377.m3u8
+ 
+#EXTINF: -1 tvg-id = "SporTV" tvg-name = "SPORTV HD" tvg-logo = "http://img.appino.tv/img/sportv.png" group-title = "Esportes", SPORTV HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/118.m3u8
+ 
+#EXTINF: -1 tvg-id = "SporTV 2" tvg-name = "SPORTV 2 HD" tvg-logo = "http://img.appino.tv/img/sportv2.png" group-title = "Esportes" , SPORTV 2 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/125.m3u8
+ 
+#EXTINF: -1 tvg-id = "sportv3.br" tvg-name = "SPORTV 3 HD" tvg-logo = "http://img.appino.tv/img/sportv3.png" group-title = "Esportes ", SPORTV 3 HD
+http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/122.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+    ######################################### +18 ##################### #########################################
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "+ 18" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group- title = "+ 18", Canal Corno
+http://cdn.adultiptv.net/cuckold.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", Canal Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", Canal Fetiche
+http://cdn.adultiptv.net/fetish.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", Canal Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", Canal MILF
+http://cdn.adultiptv.net/milf.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", canal pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 1 HD
+http://live.redtraffic.xyz/cuckold.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 2 HD
+http://live.redtraffic.xyz/blowjob.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 3 HD
+http://live.redtraffic.xyz/milf.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 4 HD
+http://live.redtraffic.xyz/latina.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 5 HD
+http://live.redtraffic.xyz/bigass.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 7 HD
+http://live.redtraffic.xyz/pov.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 8 HD
+ttp: //live.redtraffic.xyz/russian.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 10 HD (PORSTAR)
+http://live.redtraffic.xyz/pornstar.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 11 HD (INTERRACIAL)
+http://live.redtraffic.xyz/interracial.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 12 HD (INTERRACIAL)
+http://live.redtraffic.xyz/bigdick.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 15 HD
+http://live.redtraffic.xyz/blowjob.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 16 HD
+http://live.redtraffic.xyz/cuckold.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 17 HD (FETICHE)
+http://live.redtraffic.xyz/fetish.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 18 HD (FETICHE)
+http://live.redtraffic.xyz/hardcore.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 19 HD (LÉSBICA)
+http://live.redtraffic.xyz/lesbian.m3u8  
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 20 HD (adolescente)
+http://live.redtraffic.xyz/teen.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 21 HD
+ttp: //live.redtraffic.xyz/milf.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 22 HD
+http://live.redtraffic.xyz/pov.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 23 HD
+http://live.redtraffic.xyz/threesome.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 24 HD
+http://live.redtraffic.xyz/russian.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 25 HD (Latina)
+http://cdn.adultiptv.net/latina.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 26 HD  
+http://cdn.adultiptv.net/milf.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL 27 HD  
+http://cdn.adultiptv.net/milf.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL (Trans)
+http://www.ast.tv/stream/2/master.m3u8
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL (Trans 1)
+https://www.ast.tv/stream/1/cellular.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "ADULTO" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group-title = "+ 18", CANAL (GAY)
+http://cdn.adultiptv.net/gay.m3u8
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "+ 18" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group- título = "+ 18", CANAL (GAY 2)
+http://live.redtraffic.net/gay.m3u8
+ 
+ 
+#EXTINF: -1 tvg-id = "+ 18" tvg-name = "+ 18" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group- título = "+ 18", COMPILAÇÃO DE CANAL
+http://live.redtraffic.net/compilation.m
+ 
+ 
+ 
+ 
+##################################### MÁQUINAS FOTOGRÁFICAS ############ ######################
+ 
+#EXTINF: -1 tvg-logo = "https://i.ytimg.com/vi/UiC51nEVP1Y/hqdefault_live.jpg" group-title = "CÂMERA AO VIVO", LAGUNA - Centro Histórico (funcionando)
+https://p2p-qlv-6.camerite.services/live/umks2sca8vqm.stream/media-uujk0948a_354.m3u8
+ 
+#EXTINF: -1 tvg-logo = "https://i.ytimg.com/vi/UiC51nEVP1Y/hqdefault_live.jpg" group-title = "CÂMERA AO VIVO", LAGUNA - Praia do mar grosso (()
+https://p2p-qlv-6.camerite.services/live/umks34dnigux.stream/media-utp0t7h7g_369.m3u8
