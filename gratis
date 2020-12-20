@@ -43,6 +43,7 @@ http://cdn2.appino.tv/live/CFVU4V6/H0zapl9y/318.m3u8
  
 #EXTINF: -1 tvg-id = "Globo Rbs Tv Porto Alegre" tvg-name = "GLOBO RBS PORTO ALEGRE HD" tvg-logo = "http://meumaxpig.live/canais/globo.png" group-title = "Canais Globo", GLOBO RBS PORTO ALEGRE HD
 http://cdn2.appino.tv/live/BIUDHAA/DXzj50FN/332.m3u8
+
  
 #EXTINF: -1 tvg-id = "Globo Nordeste" tvg-name = "GLOBO NORDESTE HD" tvg-logo = "http://img.appino.tv/img/globo.png" group-title = "Canais Globo ", GLOBO NORDESTE HD
 http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/336.m3u8
@@ -166,11 +167,8 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=539
 #EXTINF: -1 tvg-id = "TV INFOR BAHIA" tvg-name = "MASTER TV" tvg-logo = "https://listaiptv.gratis/logos/imagens/22415682640x360b2.jpg" group-title = "Canais Abertos ", TV VILA VELHA
 https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
  
-#EXTINF: -1 tvg-id = "REDE MANCHETE" tvg-name = "REDE MANCHETE" tvg-logo = "https://imagem.natelinha.uol.com.br/grande/Manchete_cac7c09524caa3fdf6f39cf672d30dcd27b05a8b.jpeg" group-title "Canais Abertos", NOVA MANCHETE HD
-https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1857629747.m3u8
- 
 #EXTINF: -1 tvg-id = "REDE MANCHETE" tvg-name = "REDE MANCHETE" tvg-logo = "https://imagem.natelinha.uol.com.br/grande/Manchete_cac7c09524caa3fdf6f39cf672d30dcd27b05a8b.jpeg" group-title "Canais Abertos", NOVA MANCHETE HD¹
-https://stmv3.samcast.com.br/ivonildo3902/ivonildo3902/media_w1080888253_8735.m3u8
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1335664058.m3u8
  
 #EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/tvbaiana.png" group-title = "Canais Abertos", TV Baiana - Cultura
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
@@ -371,6 +369,8 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
  
  
  ################################# Religioso ########################### ############
+#EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title = "Religioso", TV TUBÁ
+ https://caikron.com.br:8082/rcr_tuba/tv.stream/chunks.m3u8?nimblesessionid=51290697
  
 #EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title = "Religioso", TV APARECIDA HD
 https://caikron.com.br:8082/padroeira/padroeira/playlist.m3u8
