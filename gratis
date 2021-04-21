@@ -52,6 +52,11 @@ http://cdn2.appino.tv/live/6VDCEWH/9xPs2t75/336.m3u8
 ################################################ SBT ############ ###############################################################
 #EXTINF: -1 tvg-logo = "https://stcotvfoco.com.br/2013/09/fx9fzk.png" group-title = "Canais Abertos", SBT HD SC
 https://cdn.jmvstream.com/w/LVW-9355/LVW9355_7WPAQX40fS/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://stcotvfoco.com.br/2013/09/fx9fzk.png" group-title = "Canais Abertos", SBT REDE MASSA
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+
  
 #EXTINF: -1 tvg-id = "sbt.br" tvg-name = "SBT HD" tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1 .png "group-title =" Canais Abertos ", SBT HD SC
 https://cdn.jmvstream.com/w/LVW-9355/LVW9355_7WPAQX40fS/chunklist.m3u8
