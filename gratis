@@ -1,6 +1,23 @@
 #EXTM3U
  #EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://stcotvfoco.com.br/2013/09/fx9fzk.png" group-title="Canais abertos",BBB 21 globo play
 https://live-fe-as-01-13.video.globo.com/d/s/hls-bbb06/hls-bbb06_1573/playlist.m3u8
+
+
+#EXTINF: -1 tvg-id = "PLUTO TV" tvg-name = "PLUTO TV" tvg-logo = "https://olhardigital.com.br/wp-content/uploads/2020/12/20201119034656.jpg" group-title = "PLUTO TV", Globo SP² HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+ 
+#EXTINF: -1 tvg-id = "PLUTO TV" tvg-name = "PLUTO TV" tvg-logo = "https://olhardigital.com.br/wp-content/uploads/2020/12/20201119034656.jpg" group-title = "PLUTO TV", CNN HD
+http://64bby.lgfd1lg.com/live/m1_1KBrVeObLx7wqyN8g_480p/m1_1KBrVeObLx7wqyN8g_480p_sensei_1744097041-10.ts
+ 
+#EXTINF: -1 tvg-id = "PLUTO TV" tvg-name = "PLUTO TV" tvg-logo = "https://olhardigital.com.br/wp-content/uploads/2020/12/20201119034656.jpg" group-title = "PLUTO TV", Globo News HD
+http://64bby.lgfd1lg.com/live/m3_1R7hfaksLPjw6EHrN8XGvFSo_480p/m3_1R7hfaksLPjw6EHrN8XGvFSo_480p_sensei_1749716760-10.ts
+ 
+#EXTINF: -1 tvg-id = "PLUTO TV" tvg-name = "PLUTO TV" tvg-logo = "https://olhardigital.com.br/wp-content/uploads/2020/12/20201119034656.jpg" group-title = "PLUTO TV", Boomerang HD
+http://64bby.lgfd1lg.com/live/m4_0LsT3zQewCyqpN6kUJEaSZg1_480p/m4_0LsT3zQewCyqpN6kUJEaSZg1_480p_sensei_1722773349-10.ts
+ 
+ 
+#EXTINF: -1 tvg-id = "PLUTO TV" tvg-name = "PLUTO TV" tvg-logo = "https://olhardigital.com.br/wp-content/uploads/2020/12/20201119034656.jpg" group-title = "PLUTO TV", Canal BrasilHD
+http://64bby.lgfd1lg.com/live/m1_UVrzPuTGO0BN95S7pDmtyIx8_480p/m1_UVrzPuTGO0BN95S7pDmtyIx8_480p_sensei_3873464628-10.ts
  
 ############################################################### ## GLOBO ######################################################### #
  
