@@ -781,6 +781,24 @@ http://cdn.adultiptv.net/gay.m3u8
  
 #EXTINF: -1 tvg-id = "+ 18" tvg-name = "+ 18" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group- título = "+ 18", CANAL (GAY 2)
 http://live.redtraffic.net/gay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",XXX TRANS 1
+https://www.ast.tv/stream/1/cellular.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",XXX TRANS 1 HD
+https://www.ast.tv/stream/1/high.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",XXX TRANS 1 FHD
+https://www.ast.tv/stream/1/ultra.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",XXX TRANS 2
+https://www.ast.tv/stream/2/cellular.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",XXX TRANS 2 HD
+https://www.ast.tv/stream/2/high.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",XXX TRANS 2 FHD
+https://www.ast.tv/stream/2/ultra.m3u8?PEDROJUNIORTUTORIAIS
  
  
 #EXTINF: -1 tvg-id = "+ 18" tvg-name = "+ 18" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group- título = "+ 18", COMPILAÇÃO DE CANAL
@@ -791,8 +809,8 @@ http://live.redtraffic.net/compilation.m
  
 ##################################### MÁQUINAS FOTOGRÁFICAS ############ ######################
  
-#EXTINF: -1 tvg-logo = "https://i.ytimg.com/vi/UiC51nEVP1Y/hqdefault_live.jpg" group-title = "CÂMERA AO VIVO", LAGUNA - Centro Histórico (funcionando)
-https://p2p-qlv-6.camerite.services/live/umks2sca8vqm.stream/media-uujk0948a_354.m3u8
- 
+#EXTINF: -1 tvg-logo = "https://i.ytimg.com/vi/UiC51nEVP1Y/hqdefault_live.jpg" group-title = "CÂMERA AO VIVO", LAGUNA - Centro Histórico
+https://p2p-qualvision-2.camerite.services/live/umksei0w96um.stream/media-u13i2xtp9_345.m3u8
+
 #EXTINF: -1 tvg-logo = "https://i.ytimg.com/vi/UiC51nEVP1Y/hqdefault_live.jpg" group-title = "CÂMERA AO VIVO", LAGUNA - Praia do mar grosso (()
-https://p2p-qlv-6.camerite.services/live/umks34dnigux.stream/media-utp0t7h7g_369.m3u8
+https://p2p-qualvision-1.camerite.services/live/umks34dnigux.stream/media-ugrvml49c_668.m3u8
