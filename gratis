@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105479
+#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png", teste1
+http://127.0.0.1:50057/output.m3u8
+
 
 #EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
 http://1468.srvsh.xyz/3612287671/tshe1907/105480
