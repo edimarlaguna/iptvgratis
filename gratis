@@ -194,6 +194,10 @@ http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
 #EXTINF: -1 tvg-id = "UNISUL TV" tvg-name = "UNISUL TV" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTDlSndxEpr_74IBL7N6fbMY-9fbUQTVu8Yow group-title = "Canais Abertos", TV GALEGA BLUMENAU
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
  
+ #EXTINF:-1 tvg-id="UNISUL TV" tvg-name="UNISUL TV" tvg-logo="http://4.bp.blogspot.com/-vhbcpg2FLxs/TxDcP4nijPI/AAAAAAAABHQ/23_4oqp0wRo/s16TV_UNIS00/UNIS00 % 255B1% 255D.jpg "group-title =" Canais Abertos ", UNITV Digital (Tubarão)
+https://hls.brasilstream.com.br/live/sitetv/sitetv/tracks-v1a1/mono.m3u8?token=6068870678683409000
+ 
+ 
 #EXTINF: -1 tvg-id = "TV ESCOLA" tvg-name = "TV ESCOLA" tvg-logo = "https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/ tv-escola-2.png "group-title =" Canais Abertos ", TV ESCOLA HD
 https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FjyoJQ-MOF8)r(fVR9ug)a(yRhZ1w)p(d(2xc)k(q8A)m(ly6vpKtidR2EK9Wo9ZLkJA) n (a (thOr8w) s (DMI) 'a (ukt7BQ) s (ymg))) s (s (4Y4) b (nQlxPA2XjFWV8Mo8LNTx6cHDF-oCuWK-B4PmrxZ45HXJKMhUIvQ6SMhfa5JuJLyiFJqeW43h47SlnqAnVQ)' s (6HU) b (HKjgKkajhHFLSikuLqRAymvpOzl0hMEiEqT1-h1Na6OueyvLV-LsIlNkIsM_RO8fHlzePGXO65PfI6Hna7u1LsdwoJiFC5vYuHGB7mSk) «s (gBo) b (WvJFQ5zT)) m (0)) / tvescola_index.m3u8
  
