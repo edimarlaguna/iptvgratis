@@ -1,47 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png", teste1
-http://127.0.0.1:50057/output.m3u8
 
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105480
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105474
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105473
-
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105472
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105471
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105476
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105475
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105470
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105469
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105468
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105467
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105466
-
-#EXTINF:-1 group-title="ZULÂNDIA" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",teste
-http://1468.srvsh.xyz/3612287671/tshe1907/105465
 
 
 
@@ -156,6 +114,10 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
  
  
 ############################################## REGIONAIS ############### #########################################
+
+#EXTINF: -1 tvg-id = "CANAL RETRO" tvg-name = "CANAL RETRO" tvg-logo = "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84998832d7465ef731fc0e141e6c5efa.webp" group-title = "Canais Abertos", TV CENTRAL BRASIL
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/chunklist_w42769504.m3u8
+
 #EXTINF: -1 tvg-id = "CANAL RETRO" tvg-name = "CANAL RETRO" tvg-logo = "http://i.imgur.com/QGUGlqk.png" group-title = "Canais Abertos", CANAL RETRO
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
  
